@@ -2,4 +2,4 @@
 Dados
 br
 
-<img src="/home/blaustain/Documentos/Diagrama.png" alt="" width="200" />
+<img src="/home/blaustain/Documentos/Diagrama.svg" alt="" width="200" />
