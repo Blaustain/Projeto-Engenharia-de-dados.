@@ -2,5 +2,5 @@
 Dados
 <hr>
 
-<img src="/home/blaustain/Documentos/Diagrama.png" alt="Descrição da imagem" width="300"/>
+<img href="/home/blaustain/Documentos/Diagrama.png" alt="Descrição da imagem" width="300"/>
 
