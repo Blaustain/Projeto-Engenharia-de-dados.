@@ -1,0 +1,40 @@
+
+
+{
+  "assets": [
+    {
+      "id": 0,
+      "name": "string",
+      "uri": "string",
+      "group": "string",
+      "extra": {},
+      "created_at": "2019-08-24T14:15:22Z",
+      "updated_at": "2019-08-24T14:15:22Z",
+      "consuming_dags": [
+        {
+          "dag_id": "string",
+          "created_at": "2019-08-24T14:15:22Z",
+          "updated_at": "2019-08-24T14:15:22Z"
+        }
+      ],
+      "producing_tasks": [
+        {
+          "dag_id": "string",
+          "task_id": "string",
+          "created_at": "2019-08-24T14:15:22Z",
+          "updated_at": "2019-08-24T14:15:22Z"
+        }
+      ],
+      "aliases": [
+        {
+          "id": 0,
+          "name": "string",
+          "group": "string"
+        }
+      ]
+    }
+  ],
+  "total_entries": 0
+}
+
+ 
