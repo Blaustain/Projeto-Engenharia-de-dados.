@@ -2,4 +2,5 @@
 Dados
 <hr>
 
-![Diagrama] (./Documentos/Diagrama.svg)
+<a  src="/home/blaustain/Documentos/Diagrama.png" alt="Descrição da imagem" width="300"</a>
+
